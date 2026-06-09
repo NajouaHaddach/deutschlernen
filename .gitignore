@@ -1,0 +1,22 @@
+.env
+/.vscode
+.idea
+vendor/
+node_modules/
+composer.lock
+/.DS_Store
+uploads/
+uploads/*
+config.php
+*.log
+/.cache
+# Dossiers de dépendances
+/vendor/
+
+# Fichiers système et logs
+.DS_Store
+Thumbs.db
+*.log
+
+# Fichiers de configuration sensibles
+/config/db_local.php
